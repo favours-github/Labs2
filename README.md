@@ -1,5 +1,5 @@
 # Labs2
-For my Second Project
+For my Second Project ( Launching an EC2 Instance as a web server using Terraform on AWS )
 
 What is EC2?
 AWS defines it as Elastic Compute Cloud.
